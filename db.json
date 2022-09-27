@@ -1,0 +1,34 @@
+{
+  "misturas": [
+        {
+        "id": 1,
+        "titulo" : "Alcool",
+        "texto" : "Alcool pode misturar com vinagre/Alcool NAO pode misturar com Agua Sanitaria"
+        },
+        
+        {
+        "id": 2,
+        "titulo" : "Vinagre",
+        "texto" : "Vinagre pode misturar com alcool/Vinagre NAO pode misturar com Agua Oxigenada"
+        },
+        
+        {
+        "id": 3,
+        "titulo" : "Agua Sanitaria",
+        "texto" : "Agua Sanitaria pode misturar com açucar/Agua Sanitaria NAO pode misturar com Alcool"
+        },
+        
+        {
+        "id": 4,
+        "titulo" : "Açucar",
+        "texto" : "Açucar pode misturar com todas as anteriores"
+        },
+        
+        {
+        "id": 5,
+        "titulo" : "Bicarbonato de Sodio",
+        "texto" : "Bicarbonato de Sodio pode misturar com Pasta de Dente/Bicarbonato de Sodio NAO pode misturar com Agua Sanitaria"
+        }
+        
+ ]   
+}   
